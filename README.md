@@ -1,5 +1,4 @@
-# Yuedu
-阅读书源自用
+# 阅读书源自用
 
 导入链接 https://cdn.jsdelivr.net/gh/cyao2q/Yuedu@master/shuyuan
 
