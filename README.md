@@ -9,5 +9,7 @@
 
 # A free CDN for Open Source
 
+https://g.cyao.workers.dev/
+
 https://www.jsdelivr.com/?docs=gh
 
