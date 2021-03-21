@@ -1,0 +1,68 @@
+[
+  {
+    "group": "",
+    "id": 138,
+    "isEnabled": true,
+    "isRegex": true,
+    "name": "去逗号后面的换行",
+    "order": 52,
+    "pattern": "(?<=[，,])\\n\\s*",
+    "replacement": "",
+    "scope": ""
+  },
+  {
+    "group": "",
+    "id": 137,
+    "isEnabled": true,
+    "isRegex": true,
+    "name": "去单独一段的标点",
+    "order": 53,
+    "pattern": "(?m)^\\s*[:：。，,；;！!\\…\\.“”\\-\\>\\| &※*#s]+\\s*$",
+    "replacement": "",
+    "scope": ""
+  },
+  {
+    "group": "",
+    "id": 147,
+    "isEnabled": true,
+    "isRegex": true,
+    "name": "去除重复段落",
+    "order": 54,
+    "pattern": "(?<=\\n)([^\\n]+)\\r?\\n\\1",
+    "replacement": "$1",
+    "scope": ""
+  },
+  {
+    "group": "",
+    "id": 1600509397838,
+    "isEnabled": true,
+    "isRegex": true,
+    "name": "去省略号",
+    "order": 58,
+    "pattern": "[\\.…。]{2,}",
+    "replacement": "…",
+    "scope": ""
+  },
+  {
+    "group": "",
+    "id": 1615992789331,
+    "isEnabled": true,
+    "isRegex": false,
+    "name": "一秒记住",
+    "order": 59,
+    "pattern": "一秒记住【笔♂趣÷阁 WwW.Biquge.Biz】，精彩小说无弹窗免费阅读！",
+    "replacement": "",
+    "scope": "异域神州道;https://www.biquge.biz"
+  },
+  {
+    "group": "",
+    "id": 1616068209152,
+    "isEnabled": true,
+    "isRegex": true,
+    "name": "十方武圣正文卷",
+    "order": 60,
+    "pattern": "十方武圣正文卷\\d+",
+    "replacement": "",
+    "scope": "https://www.wqge.cc"
+  }
+]
