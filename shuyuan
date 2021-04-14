@@ -609,7 +609,7 @@
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.qidian.com",
     "customOrder": 16,
-    "enabled": false,
+    "enabled": true,
     "enabledExplore": true,
     "exploreUrl": "🔸起 点 文::/all?style=1&page={{page}}\n🔸月 票 榜::/rank/yuepiao?style=1&page={{page}} \n🔸风 云 榜::/rank/fengyun?style=1&page={{page}}\r\n🔸热 销 榜::/rank/hotsales?style=1&page={{page}}\n🔸推 荐 榜::/rank/recom?style=1&page={{page}}\r\n🔸阅 读 榜::/rank/readIndex?style=1&page={{page}}\n🔸粉 丝 榜::/rank/newFans?style=1&page={{page}}\n🔸收 藏 榜::/rank/collect?style=1&page={{page}}\r\n🔸更 新 榜::/rank/vipup?style=1&page={{page}}\r\n🔸打 赏 榜::/rank/vipreward?style=1&page={{page}}",
     "lastUpdateTime": 1617184425929,
