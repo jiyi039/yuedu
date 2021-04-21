@@ -9,7 +9,7 @@
     "enabled": true,
     "enabledExplore": false,
     "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36\"\n}",
-    "lastUpdateTime": 1614529926633,
+    "lastUpdateTime": 1618972574010,
     "loginUrl": "",
     "ruleBookInfo": {
       "author": "class.box_con.0@id.info@tag.p.0@text",
@@ -41,10 +41,56 @@
   {
     "bookSourceComment": "",
     "bookSourceGroup": "笔趣阁",
+    "bookSourceName": "笔趣阁 pysmei",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://infosxs.pysmei.com/",
+    "bookUrlPattern": ".+/BookFiles/Html/\\d+/\\d+/index\\.html",
+    "customOrder": 2,
+    "enabled": true,
+    "enabledExplore": false,
+    "header": "{\"User-Agent\": \"okhttp-okgo/jeasonlzy\"}",
+    "lastUpdateTime": 1615530168009,
+    "ruleBookInfo": {
+      "author": "",
+      "coverUrl": "",
+      "init": "",
+      "intro": "",
+      "kind": "",
+      "lastChapter": "",
+      "name": "$.data.name",
+      "tocUrl": ""
+    },
+    "ruleContent": {
+      "content": "$.data.content\n<js>\na=String(chapter.title).replace(/\\s/g,\"\");\nresult.substring(0,90).includes(a)?result=result.split(a,2)[1]:result;\nresult.toLowerCase()\n</js>",
+      "replaceRegex": "##^[^\\n]{0,19}[\\u4e00-\\u9fa5]\\n|^正在更新中，请稍等.+|^[^\\n]*求月票[^\\n]*\\n|^([^\\n]+\\n){0,5}\\h+第\\w{1,7}章[【 ].+\\n|(?<=\\n)\\h+\\W\\n|(?<=\\n)\\h*(打击盗版，支持正版，).*$|(?<=\\n)\\h*[【\\(（][\\u4e00-\\u9fa5]+[）\\)】]$|(?<=\\w：)\\s+(?=“\\w)|(?<=\\w，[”」]|[，、‘《（【［「『])\\s+|\\s+(?=[\\n，、’：；》）】］」』])"
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+      "author": "$.Author",
+      "bookList": "$.data[:10]||$.data.BookList[*]",
+      "bookUrl": "$.Id@js:\nvar n=result.match(/(^\\d+)\\d{3,}/);\nn=(n)?n[1]:'0';\nresult=(Number(n)+1)+'/'+result;\nbook.origin+'BookFiles/Html/'+result+'/index.html';",
+      "coverUrl": "$.Img\n<js>\"https://imgapixs.pysmei.com/BookFiles/BookImages/\"+String(result.match(/[^\\/]+\\.\\w+$/)[0])</js>",
+      "intro": "$.Desc",
+      "kind": "$.BookStatus&&$.CName&&$.Score##(\\d+\\.\\d)$##$1分",
+      "lastChapter": "$.UpdateTime&&$.LastChapter##\\h[\\d:]{8}\\n##▪",
+      "name": "$.Name",
+      "wordCount": "$.UpdateTime##\\h[\\d:]{8}"
+    },
+    "ruleToc": {
+      "chapterList": "$.data.list[*].list[?(@.hasContent==1)]",
+      "chapterName": "$.name",
+      "chapterUrl": "{{$.id}}.html"
+    },
+    "searchUrl": "https://souxs.leeyegy.com/search.aspx?key={{key}}&page=1&siteid=app2",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "笔趣阁",
     "bookSourceName": "笔趣阁 wqge",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.wqge.cc",
-    "customOrder": 2,
+    "customOrder": 3,
     "enabled": true,
     "enabledExplore": false,
     "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36\"\n}",
@@ -103,47 +149,46 @@
   {
     "bookSourceComment": "",
     "bookSourceGroup": "笔趣阁",
-    "bookSourceName": "笔趣阁 pysmei",
+    "bookSourceName": "笔趣阁 vbiquge",
     "bookSourceType": 0,
-    "bookSourceUrl": "https://infosxs.pysmei.com/",
-    "bookUrlPattern": ".+/BookFiles/Html/\\d+/\\d+/index\\.html",
-    "customOrder": 3,
+    "bookSourceUrl": "https://www.vbiquge.com/",
+    "bookUrlPattern": ".+\\D(\\d{1,3})/\\1\\d+/",
+    "customOrder": 4,
     "enabled": true,
     "enabledExplore": false,
-    "header": "{\"User-Agent\": \"okhttp-okgo/jeasonlzy\"}",
-    "lastUpdateTime": 1615530168009,
+    "lastUpdateTime": 1618934948527,
+    "loginUrl": "",
     "ruleBookInfo": {
-      "author": "",
-      "coverUrl": "",
-      "init": "",
-      "intro": "",
-      "kind": "",
-      "lastChapter": "",
-      "name": "$.data.name",
-      "tocUrl": ""
+      "author": "$4",
+      "coverUrl": "$2",
+      "init": ":(?=<meta property)(?:([^\"]*)\"){12}(?:([^\"]*)\"){4}(?:([^\"]*)\"){4}(?:([^\"]*)\"){4}(?:([^\"]*)\"){4}(?:([^\"]*)\"){4}(?:([^\"]*)\"){8}(?:([^\"]*)\"){4}(?:([^\"]*)\"){4}",
+      "intro": "$1",
+      "kind": "$3,$7,$8",
+      "lastChapter": "$9",
+      "name": "$5",
+      "tocUrl": "$6"
     },
     "ruleContent": {
-      "content": "$.data.content\n<js>\na=String(chapter.title).replace(/\\s/g,\"\");\nresult.substring(0,90).includes(a)?result=result.split(a,2)[1]:result;\nresult.toLowerCase()\n</js>",
-      "replaceRegex": "##^[^\\n]{0,19}[\\u4e00-\\u9fa5]\\n|^正在更新中，请稍等.+|^[^\\n]*求月票[^\\n]*\\n|^([^\\n]+\\n){0,5}\\h+第\\w{1,7}章[【 ].+\\n|(?<=\\n)\\h+\\W\\n|(?<=\\n)\\h*(打击盗版，支持正版，).*$|(?<=\\n)\\h*[【\\(（][\\u4e00-\\u9fa5]+[）\\)】]$|(?<=\\w：)\\s+(?=“\\w)|(?<=\\w，[”」]|[，、‘《（【［「『])\\s+|\\s+(?=[\\n，、’：；》）】］」』])"
+      "content": "id.content@textNodes",
+      "replaceRegex": "##(?i)(?<=\\n)\\h+PS\\d?：.+(\\n.+){0,4}(?=$|\\h{0,4}PS)|(?mi)^[^0-9A-Z\\u4e00-\\u9fa5：\\n]+$|\\.+(?=\\.{3})|(?<=“)……(?=\\w)|(?<=“|，|、)\\s+"
     },
     "ruleExplore": {},
     "ruleSearch": {
-      "author": "$.Author",
-      "bookList": "$.data[:10]||$.data.BookList[*]",
-      "bookUrl": "$.Id@js:\nvar n=result.match(/(^\\d+)\\d{3,}/);\nn=(n)?n[1]:'0';\nresult=(Number(n)+1)+'/'+result;\nbook.origin+'BookFiles/Html/'+result+'/index.html';",
-      "coverUrl": "$.Img\n<js>\"https://imgapixs.pysmei.com/BookFiles/BookImages/\"+String(result.match(/[^\\/]+\\.\\w+$/)[0])</js>",
-      "intro": "$.Desc",
-      "kind": "$.BookStatus&&$.CName&&$.Score##(\\d+\\.\\d)$##$1分",
-      "lastChapter": "$.UpdateTime&&$.LastChapter##\\h[\\d:]{8}\\n##▪",
-      "name": "$.Name",
-      "wordCount": "$.UpdateTime##\\h[\\d:]{8}"
+      "author": "tag.span.2@text",
+      "bookList": "@css:div.result-list>div",
+      "bookUrl": "tag.a.0@href",
+      "coverUrl": "tag.img.0@src",
+      "intro": "tag.p.0@text",
+      "kind": "tag.span.4@text",
+      "lastChapter": "tag.span.6@text&&tag.a.-1@text##\\n\\h?##▪",
+      "name": "tag.span.0@text"
     },
     "ruleToc": {
-      "chapterList": "$.data.list[*].list[?(@.hasContent==1)]",
-      "chapterName": "$.name",
-      "chapterUrl": "{{$.id}}.html"
+      "chapterList": "id.list@tag.a",
+      "chapterName": "text##(?<!^|[章卷部集]\\h?)[（［【\\{\\[\\(](?![一二三四五六七八九十]{1,3}\\W$|\\d{1,3}\\D$|[上中下完终续]\\W)[^（［【\\{\\[\\(]+",
+      "chapterUrl": "href"
     },
-    "searchUrl": "https://souxs.leeyegy.com/search.aspx?key={{key}}&page=1&siteid=app2",
+    "searchUrl": "/search.php?keyword={{key}}&page={{page}}",
     "weight": 0
   },
   {
@@ -153,7 +198,7 @@
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.biqubao.com",
     "bookUrlPattern": "",
-    "customOrder": 4,
+    "customOrder": 5,
     "enabled": true,
     "enabledExplore": false,
     "header": "",
@@ -207,51 +252,6 @@
       "updateTime": ""
     },
     "searchUrl": "https://www.biqubao.com/search.php?q={{key}},{{\"charset\":\"gbk\"}",
-    "weight": 0
-  },
-  {
-    "bookSourceComment": "",
-    "bookSourceGroup": "笔趣阁",
-    "bookSourceName": "笔趣阁 vbiquge",
-    "bookSourceType": 0,
-    "bookSourceUrl": "https://www.vbiquge.com/",
-    "bookUrlPattern": ".+\\D(\\d{1,3})/\\1\\d+/",
-    "customOrder": 5,
-    "enabled": true,
-    "enabledExplore": false,
-    "lastUpdateTime": 1618934948527,
-    "loginUrl": "",
-    "ruleBookInfo": {
-      "author": "$4",
-      "coverUrl": "$2",
-      "init": ":(?=<meta property)(?:([^\"]*)\"){12}(?:([^\"]*)\"){4}(?:([^\"]*)\"){4}(?:([^\"]*)\"){4}(?:([^\"]*)\"){4}(?:([^\"]*)\"){4}(?:([^\"]*)\"){8}(?:([^\"]*)\"){4}(?:([^\"]*)\"){4}",
-      "intro": "$1",
-      "kind": "$3,$7,$8",
-      "lastChapter": "$9",
-      "name": "$5",
-      "tocUrl": "$6"
-    },
-    "ruleContent": {
-      "content": "id.content@textNodes",
-      "replaceRegex": "##(?i)(?<=\\n)\\h+PS\\d?：.+(\\n.+){0,4}(?=$|\\h{0,4}PS)|(?mi)^[^0-9A-Z\\u4e00-\\u9fa5：\\n]+$|\\.+(?=\\.{3})|(?<=“)……(?=\\w)|(?<=“|，|、)\\s+"
-    },
-    "ruleExplore": {},
-    "ruleSearch": {
-      "author": "tag.span.2@text",
-      "bookList": "@css:div.result-list>div",
-      "bookUrl": "tag.a.0@href",
-      "coverUrl": "tag.img.0@src",
-      "intro": "tag.p.0@text",
-      "kind": "tag.span.4@text",
-      "lastChapter": "tag.span.6@text&&tag.a.-1@text##\\n\\h?##▪",
-      "name": "tag.span.0@text"
-    },
-    "ruleToc": {
-      "chapterList": "id.list@tag.a",
-      "chapterName": "text##(?<!^|[章卷部集]\\h?)[（［【\\{\\[\\(](?![一二三四五六七八九十]{1,3}\\W$|\\d{1,3}\\D$|[上中下完终续]\\W)[^（［【\\{\\[\\(]+",
-      "chapterUrl": "href"
-    },
-    "searchUrl": "/search.php?keyword={{key}}&page={{page}}",
     "weight": 0
   },
   {
