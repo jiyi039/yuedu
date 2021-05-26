@@ -50,7 +50,7 @@
     "isRegex": true,
     "name": "去掉ps后面段落",
     "order": 59,
-    "pattern": "ps[：:].*(\\n.*)*",
+    "pattern": "ps[：:]?.*(\\n.*)*",
     "replacement": "",
     "scope": ""
   }
