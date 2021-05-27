@@ -1234,10 +1234,10 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": ",失效",
+    "bookSourceGroup": "",
     "bookSourceName": "九桃小说网",
     "bookSourceType": 0,
-    "bookSourceUrl": "https://www.9txs.tw",
+    "bookSourceUrl": "https://www.9txs.org",
     "bookUrlPattern": "",
     "customOrder": 30,
     "enabled": true,
@@ -1273,7 +1273,7 @@
       "chapterName": "text",
       "chapterUrl": "href"
     },
-    "searchUrl": "https://so.9txs.tw/www/,{\n  \"method\": \"POST\",\n  \"body\": \"searchkey={{key}}\"\n}",
+    "searchUrl": "https://so.9txs.org/www/,{\n  \"method\": \"POST\",\n  \"body\": \"searchkey={{key}}\"\n}",
     "weight": 0
   },
   {
