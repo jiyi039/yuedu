@@ -4,7 +4,7 @@
     "bookSourceGroup": "笔趣阁",
     "bookSourceName": "笔趣阁 mibaoge",
     "bookSourceType": 0,
-    "bookSourceUrl": "https://www.mibaoge.com",
+    "bookSourceUrl": "https://www.biquge.win",
     "customOrder": 1,
     "enabled": true,
     "enabledExplore": false,
@@ -35,7 +35,7 @@
       "chapterName": "tag.a@text",
       "chapterUrl": "tag.a@href"
     },
-    "searchUrl": "https://www.mibaoge.com/search.php?q={{key}}",
+    "searchUrl": "https://www.biquge.win/search.php?q={{key}}",
     "weight": 0
   },
   {
