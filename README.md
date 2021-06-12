@@ -1,11 +1,10 @@
 # 阅读书源自用
 
-导入链接 https://cdn.jsdelivr.net/gh/cyao2q/yuedu@master/shuyuan
+导入链接 https://cdn.jsdelivr.net/gh/cyao2q/yuedu/shuyuan
 
-刷新缓存 https://purge.jsdelivr.net/gh/cyao2q/yuedu@master/shuyuan
+刷新缓存 https://purge.jsdelivr.net/gh/cyao2q/yuedu/shuyuan
 
-![image](https://user-images.githubusercontent.com/10820724/111730994-81015500-88ad-11eb-9830-9d26eb5bae8a.png)
-
+![image](https://user-images.githubusercontent.com/10820724/121759560-d372aa80-cb58-11eb-8e7f-18e1d383fcdc.png)
 
 # A free CDN for Open Source
 
