@@ -334,7 +334,7 @@
     "bookSourceGroup": "顶点小说",
     "bookSourceName": "顶点小说 booktxt",
     "bookSourceType": 0,
-    "bookSourceUrl": "http://www.booktxt.com",
+    "bookSourceUrl": "https://www.txtbook.net",
     "bookUrlPattern": "",
     "customOrder": 8,
     "enabled": true,
@@ -365,7 +365,7 @@
       "chapterName": "tag.a@text",
       "chapterUrl": "tag.a@href"
     },
-    "searchUrl": "https://www.ibooktxt.com/search.php?q={{key}}",
+    "searchUrl": "https://www.txtbook.net/search.php?q={{key}}",
     "weight": 0
   },
   {
