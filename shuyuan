@@ -214,7 +214,7 @@
     "bookSourceGroup": "笔趣阁",
     "bookSourceName": "笔趣阁 biquge",
     "bookSourceType": 0,
-    "bookSourceUrl": "http://www.biquge.com",
+    "bookSourceUrl": "https://www.biqugeu.net",
     "bookUrlPattern": "",
     "customOrder": 5,
     "enabled": true,
@@ -245,7 +245,7 @@
       "chapterName": "text",
       "chapterUrl": "href"
     },
-    "searchUrl": "http://www.biquge.com/searchbook.php?keyword={{key}}",
+    "searchUrl": "https://www.biqugeu.net/searchbook.php?keyword={{key}}",
     "weight": 0
   },
   {
