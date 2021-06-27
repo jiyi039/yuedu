@@ -2070,7 +2070,7 @@
     "bookSourceGroup": "笔趣阁",
     "bookSourceName": "笔趣阁 bbiquge",
     "bookSourceType": 0,
-    "bookSourceUrl": "https://www.bbiquge.cc",
+    "bookSourceUrl": "https://www.bbiquge.net",
     "bookUrlPattern": "",
     "customOrder": 47,
     "enabled": true,
@@ -2099,7 +2099,7 @@
       "chapterName": "tag.a.0@text",
       "chapterUrl": "tag.a.0@href"
     },
-    "searchUrl": "https://www.bbiquge.cc/modules/article/search.php?searchkey={{key}},{\n  \"charset\": \"gbk\"\n}",
+    "searchUrl": "https://www.bbiquge.net/modules/article/search.php?searchkey={{key}},{\n  \"charset\": \"gbk\"\n}",
     "weight": 0
   },
   {
