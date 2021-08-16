@@ -45,12 +45,12 @@
   },
   {
     "group": "",
-    "id": 1621958122714,
+    "id": 1626655964758,
     "isEnabled": true,
     "isRegex": true,
-    "name": "去掉ps后面段落",
-    "order": 59,
-    "pattern": "\\s+(ps|PS)[：:]?.*(\\n.*)*",
+    "name": "末尾无用文字",
+    "order": 60,
+    "pattern": "\\s+新人新书|书友群|ps|PS.*(\\n.*)*",
     "replacement": "",
     "scope": ""
   }
