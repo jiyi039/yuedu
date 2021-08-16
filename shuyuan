@@ -3,62 +3,36 @@
     "bookSourceComment": "",
     "bookSourceGroup": "精品",
     "bookSourceName": "笔趣阁 wqge",
-    "bookSourceType": 0,
-    "bookSourceUrl": "https://www.wqge.cc",
+    "bookSourceType": "0",
+    "bookSourceUrl": "http://www.wqge.net",
+    "bookUrlPattern": "",
     "customOrder": 1,
     "enabled": true,
     "enabledExplore": false,
-    "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36\"\n}",
-    "lastUpdateTime": 1614530031668,
+    "header": "{\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36\"}",
+    "lastUpdateTime": 1629078416226,
     "loginUrl": "",
     "ruleBookInfo": {
-      "author": "",
-      "coverUrl": "id.fmimg@tag.img.0@src",
-      "init": "",
       "intro": "id.intro@tag.p.0@textNodes",
-      "kind": "",
-      "lastChapter": "",
-      "name": "",
-      "tocUrl": "",
-      "wordCount": ""
+      "coverUrl": "id.fmimg@tag.img.0@src"
     },
     "ruleContent": {
-      "content": "id.content@tag.p@text",
-      "nextContentUrl": "",
-      "sourceRegex": "",
-      "webJs": ""
+      "content": "id.content@tag.p@text"
     },
-    "ruleExplore": {
-      "author": "",
-      "bookList": "",
-      "bookUrl": "",
-      "coverUrl": "",
-      "intro": "",
-      "kind": "",
-      "lastChapter": "",
-      "name": "",
-      "wordCount": ""
-    },
+    "ruleExplore": {},
     "ruleSearch": {
-      "author": "class.odd.1@text",
-      "bookList": "class.grid@tag.tr",
-      "bookUrl": "class.odd.0@tag.a.0@href",
-      "coverUrl": "",
-      "intro": "",
-      "kind": "",
-      "lastChapter": "class.even.0@text",
+      "bookList": "class.grid@tag.tr!0",
       "name": "class.odd.0@text",
-      "wordCount": ""
+      "author": "class.odd.1@text",
+      "lastChapter": "class.even.0@text",
+      "bookUrl": "class.odd.0@tag.a.0@href"
     },
     "ruleToc": {
       "chapterList": "id.list@tag.dd!0:1:2:3:4:5:6:7:8",
       "chapterName": "tag.a@text",
-      "chapterUrl": "tag.a@href",
-      "isVip": "",
-      "nextTocUrl": "",
-      "updateTime": ""
+      "chapterUrl": "tag.a@href"
     },
-    "searchUrl": "https://www.wqge.cc/modules/article/search.php?searchkey={{key}}",
+    "searchUrl": "http://www.wqge.net/modules/article/search.php?searchkey={{key}}",
     "weight": 0
   },
   {
@@ -157,7 +131,7 @@
     "enabled": true,
     "enabledExplore": false,
     "header": "",
-    "lastUpdateTime": 1627050034503,
+    "lastUpdateTime": 1629077948290,
     "loginUrl": "",
     "ruleBookInfo": {
       "author": "id.info@tag.a@text",
