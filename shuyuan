@@ -240,7 +240,7 @@
     "loginUrl": "",
     "ruleBookInfo": {},
     "ruleContent": {
-      "content": "id.content@html##天才一秒记住本站.*"
+      "content": "id.content@html##天才一秒记住本站.*|htt.*"
     },
     "ruleExplore": {},
     "ruleSearch": {
