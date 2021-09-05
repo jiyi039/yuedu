@@ -50,7 +50,7 @@
     "isRegex": true,
     "name": "末尾无用文字",
     "order": 60,
-    "pattern": "\\s+新人新书|请记住本书首发域|书友群|ps|PS[.\\n]*(\\n.*)*",
+    "pattern": "\\s+(新人新书|请记住本书首发域|书友群|ps|PS)[.\\n]*(\\n.*)*",
     "replacement": "",
     "scope": ""
   },
