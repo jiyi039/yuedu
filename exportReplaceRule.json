@@ -1,0 +1,68 @@
+[
+  {
+    "group": "",
+    "id": 138,
+    "isEnabled": true,
+    "isRegex": true,
+    "name": "去逗号后面的换行",
+    "order": 52,
+    "pattern": "(?<=[，,])\\n\\s*",
+    "replacement": "",
+    "scope": ""
+  },
+  {
+    "group": "",
+    "id": 137,
+    "isEnabled": true,
+    "isRegex": true,
+    "name": "去单独一段的标点",
+    "order": 53,
+    "pattern": "(?m)^\\s*[:：。，,；;！!？\\…\\.“”\\-\\>\\| &※*#s]+\\s*$",
+    "replacement": "",
+    "scope": ""
+  },
+  {
+    "group": "",
+    "id": 147,
+    "isEnabled": true,
+    "isRegex": true,
+    "name": "去除重复段落",
+    "order": 54,
+    "pattern": "(?<=\\n)([^\\n]+)\\r?\\n\\1",
+    "replacement": "$1",
+    "scope": ""
+  },
+  {
+    "group": "",
+    "id": 1600509397838,
+    "isEnabled": true,
+    "isRegex": true,
+    "name": "去省略号",
+    "order": 58,
+    "pattern": "[\\.…。]{2,}",
+    "replacement": "…",
+    "scope": ""
+  },
+  {
+    "group": "",
+    "id": 1626655964758,
+    "isEnabled": true,
+    "isRegex": true,
+    "name": "末尾无用文字",
+    "order": 60,
+    "pattern": "\\s+新人新书|请记住本书首发域|书友群|ps|PS[.\\n]*(\\n.*)*",
+    "replacement": "",
+    "scope": ""
+  },
+  {
+    "group": "",
+    "id": 1630078183168,
+    "isEnabled": true,
+    "isRegex": true,
+    "name": "敏感词中间的.",
+    "order": 61,
+    "pattern": "([\\u4E00-\\u9FA5]{1})[\\./]([\\u4E00-\\u9FA5]{1})",
+    "replacement": "$1$2",
+    "scope": ""
+  }
+]
