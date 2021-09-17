@@ -369,7 +369,12 @@
     "lastUpdateTime": 1629555457083,
     "loginUrl": "",
     "ruleBookInfo": {
-      "name": "//meta[@property=\"og:title\"]/@content"
+      "name": "//meta[@property=\"og:novel:book_name\"]/@content",
+      "author": "//meta[@property=\"og:novel:author\"]/@content",
+      "kind": "//meta[@property=\"og:novel:category\"]/@content",
+      "lastChapter": "//meta[@property=\"og:novel:lastest_chapter_name\"]/@content",
+      "intro": "//meta[@property=\"og:description\"]/@content",
+      "coverUrl": "//meta[@property=\"og:image\"]/@content"
     },
     "ruleContent": {
       "content": "//*[@id=\"content\"]"
