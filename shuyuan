@@ -360,7 +360,7 @@
     "bookSourceGroup": "顶点小说",
     "bookSourceName": "顶点小说 230book",
     "bookSourceType": 0,
-    "bookSourceUrl": "https://www.230book.com",
+    "bookSourceUrl": "https://www.230book.net",
     "bookUrlPattern": "",
     "customOrder": 10,
     "enabled": true,
@@ -386,7 +386,7 @@
       "chapterName": "text",
       "chapterUrl": "href"
     },
-    "searchUrl": "https://www.230book.com/modules/article/search.php?searchkey={{key}}&searchtype=articlename,{\n  \"charset\": \"gbk\"\n}",
+    "searchUrl": "https://www.230book.net/modules/article/search.php?searchkey={{key}}&searchtype=articlename,{\n  \"charset\": \"gbk\"\n}",
     "weight": 0
   },
   {
