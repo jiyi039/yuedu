@@ -27,7 +27,7 @@
       "bookList": "class.hotcontent@class.item",
       "name": "tag.dt@text",
       "author": "class.btm@tag.a@text",
-      "lastChapter": "tag.a.1@href<js>java.ajax('https://www.bookben.net'+result)</js>id.info@tag.a.-1@text&&id.info@tag.p.-1@text##最后更新.|..\\\\:.*",
+      "lastChapter": "tag.a.1@href<js>java.ajax('https://www.bookben.net'+result)</js>id.info@tag.p.-1@text&&id.info@tag.a.-1@text##[\\d:]{8}\\n|最后更新：",
       "intro": "tag.dd@text",
       "coverUrl": "class.image@tag.img@src",
       "bookUrl": "class.image@tag.a@href"
