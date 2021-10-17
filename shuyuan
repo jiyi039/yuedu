@@ -278,7 +278,7 @@
       "chapterList": "<js>\nvar javaImport = new JavaImporter();\njavaImport.importPackage(\n    Packages.java.lang,\n    Packages.javax.crypto.spec,\n    Packages.javax.crypto,\n    Packages.android.util\n);\n\nwith(javaImport){\n    function decrypt(str){\n        var key=SecretKeySpec(String(\"ZKYm5vSUhvcG9IbXNZTG1pb2\").getBytes(),\"DESede\");\n        var iv=IvParameterSpec(String(\"01234567\").getBytes());\n        var bytes=Base64.decode(String(str).getBytes(),2);\n        var chipher=Cipher.getInstance(\"DESede/CBC/PKCS5Padding\");\n        chipher.init(2,key,iv);\n        return String(chipher.doFinal(bytes));\n    }\n}\ndecrypt(JSON.parse(result).data.replace(/(\\r\\n)|(\\n)|(\\r)/g,''))\n</js>result",
       "chapterName": "chapter_name",
       "chapterUrl": "http://st.sz456.com.cn/api/book/chapter/{{parseInt(java.get('bid')/1000)}}/@get:{bid}/{{$._id}}.json",
-      "isVip": "is_free",
+      "isVip": "",
       "updateTime": "{{$.words_count}} 字"
     },
     "searchUrl": "/search/book/result,{\"method\":\"POST\",\"body\":\"kw={{key}}&pn={{page}}&is_author=0\"}",
