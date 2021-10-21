@@ -14,7 +14,7 @@ https://g.cyao.workers.dev/
 
 https://www.jsdelivr.com/?docs=gh
 
-# 安装APP
+# 阅读APP
 https://github.com/gedoor/legado/releases
 
 https://github.com/gedoor/legado/blob/master/app/src/main/assets/updateLog.md
