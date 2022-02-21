@@ -6,12 +6,6 @@
 
 ![image](https://user-images.githubusercontent.com/10820724/123533823-2cdafc00-d74b-11eb-9240-7b438a279868.png)
 
-
-
-
-
-![image](https://user-images.githubusercontent.com/10820724/121759770-fce00600-cb59-11eb-822d-64c65340df9c.png)
-
 # A free CDN for Open Source
 
 https://g.cyao.workers.dev/
