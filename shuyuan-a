@@ -1439,16 +1439,15 @@
     "enabledExplore": true,
     "exploreUrl": "🔸起 点 文::/all?style=1&page={{page}}\n🔸月 票 榜::/rank/yuepiao?style=1&page={{page}} \n🔸风 云 榜::/rank/fengyun?style=1&page={{page}}\n🔸热 销 榜::/rank/hotsales?style=1&page={{page}}\n🔸推 荐 榜::/rank/recom?style=1&page={{page}}\n🔸阅 读 榜::/rank/readIndex?style=1&page={{page}}\n🔸粉 丝 榜::/rank/newFans?style=1&page={{page}}\n🔸收 藏 榜::/rank/collect?style=1&page={{page}}\n🔸更 新 榜::/rank/vipup?style=1&page={{page}}\n🔸打 赏 榜::/rank/vipreward?style=1&page={{page}}",
     "header": "",
-    "lastUpdateTime": 1644978157830,
+    "lastUpdateTime": 1645775401979,
     "loginUrl": "https://passport.qidian.com",
-    "respondTime": 184578,
     "ruleBookInfo": {
       "author": "##作者：</aria>([^<]+)<aria##$1###",
       "intro": "<js>'　　★最近更新:'+result.match(/class=\"gray ell\" [^>]+>([^<]+)<span/)[1]+'★\\n'+result.match(/textarea hidden>([\\W\\w]+?)<\\/texta/)[1]\n</js>",
       "kind": "##\"book-meta\"[^>]+>([^<]+)</p##$1###",
       "lastChapter": "##span>连载至([^<]+)##$1###",
       "name": "##\"book-title\">([^<]+)</h2##$1###",
-      "tocUrl": "<js>\nvar id = baseUrl.match(/book\\/(\\d+)/)[1];\njava.put('id', id);\n'https://druid.if.qidian.com/argus/api/v1/chapterlist/chapterlist?bookId='+id;\n</js>",
+      "tocUrl": ".module-header.auto-report@a@href",
       "wordCount": "##\"book-meta\"[^>]+>([^<]+)<span##$1###"
     },
     "ruleContent": {
@@ -1462,15 +1461,16 @@
       "coverUrl": "##data-bid=\"([^\"]+)\"##https://bookcover.yuewen.com/qdbimg/349573/$1/180###",
       "intro": "class.intro@textNodes",
       "kind": "class.author@tag.a!0@text||tag.a.0@text",
-      "lastChapter": "class.update@a@text##最新更新\\s",
-      "name": "tag.h4@a@text||tag.a.1@text",
+      "lastChapter": "class.update@a@text##[\\(（【《].*[求感盟为白银推别追艰补别A-Za-z].*[》】）\\)].*|[求感盟为白银推别追艰补别A-Za-z].*[》】）\\)].*",
+      "name": "h4@a@text||h2@a@text",
       "wordCount": "//*[text()=\"总字数\"]//text()##总字数##字"
     },
     "ruleToc": {
-      "chapterList": ":\\{\"C\":(\\d+),.+?,\"N\":\"(.*?)\"[^T]*T\":(\\d{13})[^V]*V\":(\\d)[^\\}]*",
-      "chapterName": "$4!$2@js:result.replace(/0!/, '').replace(/1!/, '💰')",
-      "chapterUrl": "https://vipreader.qidian.com/chapter/@get:{id}/$1",
-      "updateTime": "<js>java.timeFormat($3)</js>"
+      "chapterList": ":\"cN\":\"(.*?)\",\"uT\":\"(.*?)\",\"id\":(.*?),\"sS\":(.*?),",
+      "chapterName": "$1",
+      "chapterUrl": "@js:\nvar bid = baseUrl.match(/\\d+/);\njava.put('bid', bid);\n'https://vipreader.qidian.com/chapter/'+bid+'/$3'",
+      "isVip": "$4@js:\nresult.replace(/1/g,\"false\").replace(/0/g,\"true\")",
+      "updateTime": "$2##\",\"cnt\":.*,\"cU\":\""
     },
     "searchUrl": "/search?kw={{key}}",
     "weight": 0
