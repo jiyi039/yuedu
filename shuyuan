@@ -11,7 +11,7 @@
     "enabledExplore": false,
     "exploreUrl": "",
     "header": "",
-    "lastUpdateTime": 1644762681983,
+    "lastUpdateTime": 1645713334129,
     "loginUrl": "",
     "ruleBookInfo": {
       "author": "id.info@tag.a@text",
@@ -43,58 +43,53 @@
   {
     "bookSourceComment": "",
     "bookSourceGroup": "精品小说",
-    "bookSourceName": "✈ 九桃小说",
+    "bookSourceName": "✈ 九桃小说 手机版",
     "bookSourceType": 0,
-    "bookSourceUrl": "https://www.9txs.org#发现",
-    "bookUrlPattern": "",
+    "bookSourceUrl": "https://m.9txs.org",
     "customOrder": 2,
     "enabled": true,
-    "enabledExplore": true,
-    "exploreUrl": "🔹                 全          部                 🔹::/library/0_0_2_{{page}}.html\n总点击榜::https://www.9txs.org/library/allvisit_0_0_{{page}}.html\n月点击榜::https://www.9txs.org/library/monthvisit_0_0_{{page}}.html\n周点击榜::https://www.9txs.org/library/weekvisit_0_0_{{page}}.html\n\n日点击榜::https://www.9txs.org/library/dayvisit_0_0_{{page}}.html\n总推荐榜::https://www.9txs.org/library/allvote_0_0_{{page}}.html\n月推荐榜::https://www.9txs.org/library/monthvote_0_0_{{page}}.html\n\n周推荐榜::https://www.9txs.org/library/weekvote_0_0_{{page}}.html\n日推荐榜::https://www.9txs.org/library/dayvote_0_0_{{page}}.html\n总收藏榜::/library/goodnum_0_0_{{page}}.html\n\n总字数榜::https://www.9txs.org/library/size_0_0_{{page}}.html\n最新入库::https://www.9txs.org/library/postdate_0_0_{{page}}.html\n\n 🔹                 全          部                 🔹\n 玄幻奇幻 ::/library/0_1_0_{{page}}.html\n 武侠修真 ::/library/0_2_0_{{page}}.html\n 都市生活 ::/library/0_3_0_{{page}}.html\n\n 历史军事 ::/library/0_4_0_{{page}}.html\n 游戏竞技 ::/library/0_5_0_{{page}}.html\n 科幻未来 ::/library/0_6_2_{{page}}.html\n\n 悬疑灵异 ::/library/0_7_0_{{page}}.html\n 经典短篇 ::/library/0_9_0_{{page}}.html\n 言情美文 ::/library/0_18_0_{{page}}.html\n\n 古代言情 ::/library/0_10_0_{{page}}.html\n 现代言情 ::/library/0_11_0_{{page}}.html\n 幻想奇缘 ::/library/0_12_0_{{page}}.html\n\n 浪漫青春 ::/library/0_13_0_{{page}}.html\n 网络情缘 ::/library/0_14_0_{{page}}.html\n 科幻空间 ::/library/0_15_0_{{page}}.html\n\n 恐怖灵异 ::/library/0_16_0_{{page}}.html\n 二 次 元  ::/library/0_8_0_{{page}}.html\n  N 次 元  ::/library/0_17_0_{{page}}.html\n 其他类型 ::/library/0_19_0_{{page}}.html\n\n🔹                 连          载                 🔹::/library/0_0_1_{{page}}.html\n总点击榜::https://www.9txs.org/library/allvisit_0_1_{{page}}.html\n月点击榜::https://www.9txs.org/library/monthvisit_0_1_{{page}}.html\n周点击榜::https://www.9txs.org/library/weekvisit_0_1_{{page}}.html\n\n日点击榜::https://www.9txs.org/library/dayvisit_0_1_{{page}}.html\n总推荐榜::https://www.9txs.org/library/allvote_0_1_{{page}}.html\n月推荐榜::https://www.9txs.org/library/monthvote_0_1_{{page}}.html\n\n周推荐榜::https://www.9txs.org/library/weekvote_0_1_{{page}}.html\n日推荐榜::https://www.9txs.org/library/dayvote_0_1_{{page}}.html\n总收藏榜::/library/goodnum_0_1_{{page}}.html\n\n总字数榜::https://www.9txs.org/library/size_0_1_{{page}}.html\n最新入库::https://www.9txs.org/library/postdate_0_1_{{page}}.html\n\n                             tag                             ::\n\n 玄幻奇幻 ::/library/0_1_1_{{page}}.html\n 武侠修真 ::/library/0_2_1_{{page}}.html\n 都市生活 ::/library/0_3_1_{{page}}.html\n\n 历史军事 ::/library/0_4_1_{{page}}.html\n 游戏竞技 ::/library/0_5_1_{{page}}.html\n 科幻未来 ::/library/0_6_1_{{page}}.html\n\n 悬疑灵异 ::/library/0_7_1_{{page}}.html\n 经典短篇 ::/library/0_9_1_{{page}}.html\n 言情美文 ::/library/0_18_1_{{page}}.html\n\n 古代言情 ::/library/0_10_1_{{page}}.html\n 现代言情 ::/library/0_11_1_{{page}}.html\n 幻想奇缘 ::/library/0_12_1_{{page}}.html\n\n 浪漫青春 ::/library/0_13_1_{{page}}.html\n 网络情缘 ::/library/0_14_1_{{page}}.html\n 科幻空间 ::/library/0_15_1_{{page}}.html\n\n 恐怖灵异 ::/library/0_16_1_{{page}}.html\n 二 次 元  ::/library/0_8_1_{{page}}.html\n  N 次 元  ::/library/0_17_1_{{page}}.html\n 其他类型 ::/library/0_19_1_{{page}}.html\n🔹                 完          结                 🔹::/library/0_0_2_{{page}}.html\n\n总点击榜::https://www.9txs.org/library/allvisit_0_2_{{page}}.html\n月点击榜::https://www.9txs.org/library/monthvisit_0_2_{{page}}.html\n周点击榜::https://www.9txs.org/library/weekvisit_0_2_{{page}}.html\n日点击榜::https://www.9txs.org/library/dayvisit_0_2_{{page}}.html\n总推荐榜::https://www.9txs.org/library/allvote_0_2_{{page}}.html\n月推荐榜::https://www.9txs.org/library/monthvote_0_2_{{page}}.html\n周推荐榜::https://www.9txs.org/library/weekvote_0_2_{{page}}.html\n日推荐榜::https://www.9txs.org/library/dayvote_0_2_{{page}}.html\n总收藏榜::/library/goodnum_0_2_{{page}}.html\n总字数榜::https://www.9txs.org/library/size_0_2_{{page}}.html\n最新入库::https://www.9txs.org/library/postdate_0_2_{{page}}.html\n\n\n                             tag                             ::\n 玄幻奇幻 ::/library/0_1_1_{{page}}.html\n 武侠修真 ::/library/0_2_2_{{page}}.html\n 都市生活 ::/library/0_3_2_{{page}}.html\n\n 历史军事 ::/library/0_4_2_{{page}}.html\n 游戏竞技 ::/library/0_5_2_{{page}}.html\n 科幻未来 ::/library/0_6_2_{{page}}.html\n\n 悬疑灵异 ::/library/0_7_2_{{page}}.html\n 经典短篇 ::/library/0_9_2_{{page}}.html\n 言情美文 ::/library/0_18_2_{{page}}.html\n\n 古代言情 ::/library/0_10_2_{{page}}.html\n 现代言情 ::/library/0_11_2_{{page}}.html\n 幻想奇缘 ::/library/0_12_2_{{page}}.html\n\n 浪漫青春 ::/library/0_13_2_{{page}}.html\n 网络情缘 ::/library/0_14_2_{{page}}.html\n 科幻空间 ::/library/0_15_2_{{page}}.html\n\n 恐怖灵异 ::/library/0_16_2_{{page}}.html\n 二 次 元  ::/library/0_8_2_{{page}}.html\n  N 次 元  ::/library/0_17_2_{{page}}.html\n 其他类型 ::/library/0_19_2_{{page}}.html\n                      ",
-    "header": "",
-    "lastUpdateTime": 1633148809917,
-    "loginUrl": "",
+    "enabledExplore": false,
+    "exploreUrl": "",
+    "lastUpdateTime": 1633179569438,
     "ruleBookInfo": {
-      "author": "@css:.detail > p:nth-child(3) > a:nth-child(1)@text",
-      "coverUrl": "@css:.detail > a > img@src",
-      "intro": "@css:.content > p@html",
-      "lastChapter": "@css:.detail > p:nth-child(6) > a@text",
-      "name": "@css:.detail > h1@text",
-      "tocUrl": "@css:.detail > p.action > a:nth-child(1)@href",
-      "wordCount": "@css:.detail > p:nth-child(3)@text@js:result+'字'##.*字数."
+      "author": "tag.p.1@text",
+      "intro": "",
+      "kind": "class.line@tag.a@text",
+      "lastChapter": "class.chapter@text##最新：",
+      "name": "class.booktitle@text",
+      "tocUrl": "text.查看目录@href",
+      "wordCount": "tag.span.1@text"
     },
     "ruleContent": {
-      "content": "@css:#content>p:not(:first-child)@html",
-      "replaceRegex": "##您可以在百度.*查找最新章节！|九桃小说 老域名.*被墙，请您牢记本站最新域名.*"
+      "content": "class.content@tag.p!0@html",
+      "imageStyle": "FULL",
+      "replaceRegex": "##您可以.*"
     },
     "ruleExplore": {
-      "author": "@css:.author@text",
-      "bookList": "@css:.library>li",
-      "bookUrl": "@css:.bookname@href",
-      "coverUrl": "@css:img@src",
-      "intro": "@css:p:eq(4)@html",
-      "kind": "@css:p>a:eq(2)@text&&span@text",
-      "lastChapter": "@css:.chapter@text##最新章节.",
-      "name": "@css:.bookname@text",
-      "wordCount": "@css:p:eq(3)@text@js:result+'字'##.*\\|"
+      "author": "",
+      "bookList": "",
+      "bookUrl": "",
+      "coverUrl": "",
+      "intro": "",
+      "name": ""
     },
     "ruleSearch": {
-      "author": "@css:.author@text",
-      "bookList": "@css:.library>li",
-      "bookUrl": "@css:.bookname@href",
-      "coverUrl": "@css:img@src",
-      "intro": "@css:p:eq(4)@html",
-      "kind": "@css:p>a:eq(2)@text&&span@text",
-      "lastChapter": "@css:.chapter@text##最新章节.",
-      "name": "@css:.bookname@text",
-      "wordCount": "@css:p:eq(3)@text##.*\\|"
+      "author": "tag.p.1@textNodes",
+      "bookList": "class.list@tag.li",
+      "bookUrl": "tag.a@href",
+      "coverUrl": "tag.img@src",
+      "intro": "class.intro@text",
+      "kind": "tag.span@text",
+      "lastChapter": "tag.a@href<js>java.ajax(result)</js>class.chapter@text##最新：",
+      "name": "class.bookname@text"
     },
     "ruleToc": {
-      "chapterList": "@css:.read > dl:not(:first-child) > dd > a",
-      "chapterName": "text",
-      "chapterUrl": "href"
+      "chapterList": "class.read@tag.li",
+      "chapterName": "tag.a@text",
+      "chapterUrl": "tag.a@href",
+      "nextTocUrl": "text.下一页@href"
     },
-    "searchUrl": "https://so.9txs.org/www/,{\n  \"method\": \"POST\",\n  \"body\": \"searchkey={{key}}\"\n}",
+    "searchUrl": "https://so.9txs.org/m/,{\n\"charset\": \"UTF-8\",\n\"method\": \"POST\",\n\"body\": \"searchkey={{key}}\"\n}",
     "weight": 0
   },
   {
@@ -175,11 +170,49 @@
   {
     "bookSourceComment": "",
     "bookSourceGroup": "精品小说",
+    "bookSourceName": "✈ 笔趣阁 biqugeapp",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://www.biqugeapp.com",
+    "bookUrlPattern": "",
+    "customOrder": 5,
+    "enabled": true,
+    "enabledExplore": false,
+    "header": "",
+    "lastUpdateTime": 1629556307447,
+    "loginUrl": "",
+    "ruleBookInfo": {
+      "intro": "@js:'<br>'+java.get('intro')"
+    },
+    "ruleContent": {
+      "content": "$..content"
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+      "author": "$.Author",
+      "bookList": "$.data",
+      "bookUrl": "$.Id@js:\nvar n=result.match(/(^\\d+)\\d{3,}/);\nn=(n)?n[1]:'0';\nresult=(Number(n)+1)+'/'+result;\n'https://infos.anchengcn.com/BookFiles/Html/'+result+'/index.html';",
+      "coverUrl": "$.Img",
+      "intro": "$.Desc@js:java.put('intro',result);",
+      "kind": "$.CName",
+      "lastChapter": "$.LastChapter##(正文)?(\\s+|_)|[\\(（【].*[求更谢乐发推].*[】）\\)]",
+      "name": "$.Name"
+    },
+    "ruleToc": {
+      "chapterList": "$..[?(@.hasContent)]",
+      "chapterName": "$.name##(正文)?(\\s+|_)|[\\(（【].*[求更谢乐发推].*[】）\\)]",
+      "chapterUrl": "$.id@js:\nbaseUrl.replace(/index.html/,result).replace(/infos/,'content')+'.html'"
+    },
+    "searchUrl": "https://sou.jiaston.com/search.aspx?key={{key}}&page=1&siteid=app2 ",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "精品小说",
     "bookSourceName": "✈ 蜂毒小说",
     "bookSourceType": 0,
     "bookSourceUrl": "http://api.sz456.com.cn",
     "bookUrlPattern": "",
-    "customOrder": 5,
+    "customOrder": 6,
     "enabled": true,
     "enabledExplore": true,
     "exploreUrl": "热血都市::http://st.sz456.com.cn/api/book/block/1358_{{page}}.json\n东方玄幻::http://st.sz456.com.cn/api/book/block/1359_{{page}}.json\n悬疑灵异::http://st.sz456.com.cn/api/book/block/1361_{{page}}.json\n历史军事::http://st.sz456.com.cn/api/book/block/1355_{{page}}.json\n仙侠武侠::http://st.sz456.com.cn/api/book/block/1357_{{page}}.json\n科幻虚拟::http://st.sz456.com.cn/api/book/block/1360_{{page}}.json\n现代言情::http://st.sz456.com.cn/api/book/block/1356_{{page}}.json\n古代言情::http://st.sz456.com.cn/api/book/block/1362_{{page}}.json\n幻想言情::http://st.sz456.com.cn/api/book/block/1363_{{page}}.json\n主编力荐::http://st.sz456.com.cn/api/book/block/1323_{{page}}.json\n热门找书::http://st.sz456.com.cn/api/book/block/1824_{{page}}.json\n热门榜单::http://st.sz456.com.cn/api/book/block/1336_{{page}}.json\n全网热更::http://st.sz456.com.cn/api/book/block/1335_{{page}}.json\n女生爆款::http://st.sz456.com.cn/api/book/block/1326_{{page}}.json\n猜你喜欢::http://st.sz456.com.cn/api/book/block/1329_{{page}}.json\n男神专区::http://st.sz456.com.cn/api/book/block/1351_{{page}}.json\n女神专区::http://st.sz456.com.cn/api/book/block/1352_{{page}}.json",
@@ -235,98 +268,58 @@
   {
     "bookSourceComment": "",
     "bookSourceGroup": "精品小说",
-    "bookSourceName": "✈ 顶点小说",
+    "bookSourceName": "✈ 九桃小说",
     "bookSourceType": 0,
-    "bookSourceUrl": "https://www.ibooktxt.com",
+    "bookSourceUrl": "https://www.9txs.org#发现",
     "bookUrlPattern": "",
-    "customOrder": 6,
-    "enabled": true,
-    "enabledExplore": false,
-    "exploreUrl": "",
-    "header": "",
-    "lastUpdateTime": 1630119073135,
-    "loginUrl": "",
-    "ruleBookInfo": {
-      "author": "id.info@tag.p.0@text##作.*者.",
-      "coverUrl": "tag.img@src",
-      "intro": "id.intro@text",
-      "kind": "class.con_top@tag.a.1@text",
-      "lastChapter": "id.info@tag.a.-1@text",
-      "name": "id.info@tag.h1@text",
-      "wordCount": "id.info@tag.p.2@text##最后更新.|..\\:.*"
-    },
-    "ruleContent": {
-      "content": "id.content@html"
-    },
-    "ruleExplore": {},
-    "ruleSearch": {
-      "author": "tag.p.1@text##作者.",
-      "bookList": "class.result-item result-game-item",
-      "bookUrl": "tag.a.0@href",
-      "coverUrl": "tag.img@src",
-      "intro": "tag.p.0@text",
-      "kind": "tag.p.2@text##类型.",
-      "lastChapter": "tag.a.-1@text&&tag.p.3@text##更新时间.|..\\:.*",
-      "name": "tag.a.1@text"
-    },
-    "ruleToc": {
-      "chapterList": "id.list@tag.dd",
-      "chapterName": "tag.a@text",
-      "chapterUrl": "tag.a@href"
-    },
-    "searchUrl": "https://www.ibooktxt.com/search.php?q={{key}}",
-    "weight": 0
-  },
-  {
-    "bookSourceComment": "",
-    "bookSourceGroup": "精品小说",
-    "bookSourceName": "✈ 九桃小说 手机版",
-    "bookSourceType": 0,
-    "bookSourceUrl": "https://m.9txs.org",
     "customOrder": 7,
     "enabled": true,
-    "enabledExplore": false,
-    "exploreUrl": "",
-    "lastUpdateTime": 1633179569438,
+    "enabledExplore": true,
+    "exploreUrl": "🔹                 全          部                 🔹::/library/0_0_2_{{page}}.html\n总点击榜::https://www.9txs.org/library/allvisit_0_0_{{page}}.html\n月点击榜::https://www.9txs.org/library/monthvisit_0_0_{{page}}.html\n周点击榜::https://www.9txs.org/library/weekvisit_0_0_{{page}}.html\n\n日点击榜::https://www.9txs.org/library/dayvisit_0_0_{{page}}.html\n总推荐榜::https://www.9txs.org/library/allvote_0_0_{{page}}.html\n月推荐榜::https://www.9txs.org/library/monthvote_0_0_{{page}}.html\n\n周推荐榜::https://www.9txs.org/library/weekvote_0_0_{{page}}.html\n日推荐榜::https://www.9txs.org/library/dayvote_0_0_{{page}}.html\n总收藏榜::/library/goodnum_0_0_{{page}}.html\n\n总字数榜::https://www.9txs.org/library/size_0_0_{{page}}.html\n最新入库::https://www.9txs.org/library/postdate_0_0_{{page}}.html\n\n 🔹                 全          部                 🔹\n 玄幻奇幻 ::/library/0_1_0_{{page}}.html\n 武侠修真 ::/library/0_2_0_{{page}}.html\n 都市生活 ::/library/0_3_0_{{page}}.html\n\n 历史军事 ::/library/0_4_0_{{page}}.html\n 游戏竞技 ::/library/0_5_0_{{page}}.html\n 科幻未来 ::/library/0_6_2_{{page}}.html\n\n 悬疑灵异 ::/library/0_7_0_{{page}}.html\n 经典短篇 ::/library/0_9_0_{{page}}.html\n 言情美文 ::/library/0_18_0_{{page}}.html\n\n 古代言情 ::/library/0_10_0_{{page}}.html\n 现代言情 ::/library/0_11_0_{{page}}.html\n 幻想奇缘 ::/library/0_12_0_{{page}}.html\n\n 浪漫青春 ::/library/0_13_0_{{page}}.html\n 网络情缘 ::/library/0_14_0_{{page}}.html\n 科幻空间 ::/library/0_15_0_{{page}}.html\n\n 恐怖灵异 ::/library/0_16_0_{{page}}.html\n 二 次 元  ::/library/0_8_0_{{page}}.html\n  N 次 元  ::/library/0_17_0_{{page}}.html\n 其他类型 ::/library/0_19_0_{{page}}.html\n\n🔹                 连          载                 🔹::/library/0_0_1_{{page}}.html\n总点击榜::https://www.9txs.org/library/allvisit_0_1_{{page}}.html\n月点击榜::https://www.9txs.org/library/monthvisit_0_1_{{page}}.html\n周点击榜::https://www.9txs.org/library/weekvisit_0_1_{{page}}.html\n\n日点击榜::https://www.9txs.org/library/dayvisit_0_1_{{page}}.html\n总推荐榜::https://www.9txs.org/library/allvote_0_1_{{page}}.html\n月推荐榜::https://www.9txs.org/library/monthvote_0_1_{{page}}.html\n\n周推荐榜::https://www.9txs.org/library/weekvote_0_1_{{page}}.html\n日推荐榜::https://www.9txs.org/library/dayvote_0_1_{{page}}.html\n总收藏榜::/library/goodnum_0_1_{{page}}.html\n\n总字数榜::https://www.9txs.org/library/size_0_1_{{page}}.html\n最新入库::https://www.9txs.org/library/postdate_0_1_{{page}}.html\n\n                             tag                             ::\n\n 玄幻奇幻 ::/library/0_1_1_{{page}}.html\n 武侠修真 ::/library/0_2_1_{{page}}.html\n 都市生活 ::/library/0_3_1_{{page}}.html\n\n 历史军事 ::/library/0_4_1_{{page}}.html\n 游戏竞技 ::/library/0_5_1_{{page}}.html\n 科幻未来 ::/library/0_6_1_{{page}}.html\n\n 悬疑灵异 ::/library/0_7_1_{{page}}.html\n 经典短篇 ::/library/0_9_1_{{page}}.html\n 言情美文 ::/library/0_18_1_{{page}}.html\n\n 古代言情 ::/library/0_10_1_{{page}}.html\n 现代言情 ::/library/0_11_1_{{page}}.html\n 幻想奇缘 ::/library/0_12_1_{{page}}.html\n\n 浪漫青春 ::/library/0_13_1_{{page}}.html\n 网络情缘 ::/library/0_14_1_{{page}}.html\n 科幻空间 ::/library/0_15_1_{{page}}.html\n\n 恐怖灵异 ::/library/0_16_1_{{page}}.html\n 二 次 元  ::/library/0_8_1_{{page}}.html\n  N 次 元  ::/library/0_17_1_{{page}}.html\n 其他类型 ::/library/0_19_1_{{page}}.html\n🔹                 完          结                 🔹::/library/0_0_2_{{page}}.html\n\n总点击榜::https://www.9txs.org/library/allvisit_0_2_{{page}}.html\n月点击榜::https://www.9txs.org/library/monthvisit_0_2_{{page}}.html\n周点击榜::https://www.9txs.org/library/weekvisit_0_2_{{page}}.html\n日点击榜::https://www.9txs.org/library/dayvisit_0_2_{{page}}.html\n总推荐榜::https://www.9txs.org/library/allvote_0_2_{{page}}.html\n月推荐榜::https://www.9txs.org/library/monthvote_0_2_{{page}}.html\n周推荐榜::https://www.9txs.org/library/weekvote_0_2_{{page}}.html\n日推荐榜::https://www.9txs.org/library/dayvote_0_2_{{page}}.html\n总收藏榜::/library/goodnum_0_2_{{page}}.html\n总字数榜::https://www.9txs.org/library/size_0_2_{{page}}.html\n最新入库::https://www.9txs.org/library/postdate_0_2_{{page}}.html\n\n\n                             tag                             ::\n 玄幻奇幻 ::/library/0_1_1_{{page}}.html\n 武侠修真 ::/library/0_2_2_{{page}}.html\n 都市生活 ::/library/0_3_2_{{page}}.html\n\n 历史军事 ::/library/0_4_2_{{page}}.html\n 游戏竞技 ::/library/0_5_2_{{page}}.html\n 科幻未来 ::/library/0_6_2_{{page}}.html\n\n 悬疑灵异 ::/library/0_7_2_{{page}}.html\n 经典短篇 ::/library/0_9_2_{{page}}.html\n 言情美文 ::/library/0_18_2_{{page}}.html\n\n 古代言情 ::/library/0_10_2_{{page}}.html\n 现代言情 ::/library/0_11_2_{{page}}.html\n 幻想奇缘 ::/library/0_12_2_{{page}}.html\n\n 浪漫青春 ::/library/0_13_2_{{page}}.html\n 网络情缘 ::/library/0_14_2_{{page}}.html\n 科幻空间 ::/library/0_15_2_{{page}}.html\n\n 恐怖灵异 ::/library/0_16_2_{{page}}.html\n 二 次 元  ::/library/0_8_2_{{page}}.html\n  N 次 元  ::/library/0_17_2_{{page}}.html\n 其他类型 ::/library/0_19_2_{{page}}.html\n                      ",
+    "header": "",
+    "lastUpdateTime": 1633148809917,
+    "loginUrl": "",
     "ruleBookInfo": {
-      "author": "tag.p.1@text",
-      "intro": "",
-      "kind": "class.line@tag.a@text",
-      "lastChapter": "class.chapter@text##最新：",
-      "name": "class.booktitle@text",
-      "tocUrl": "text.查看目录@href",
-      "wordCount": "tag.span.1@text"
+      "author": "@css:.detail > p:nth-child(3) > a:nth-child(1)@text",
+      "coverUrl": "@css:.detail > a > img@src",
+      "intro": "@css:.content > p@html",
+      "lastChapter": "@css:.detail > p:nth-child(6) > a@text",
+      "name": "@css:.detail > h1@text",
+      "tocUrl": "@css:.detail > p.action > a:nth-child(1)@href",
+      "wordCount": "@css:.detail > p:nth-child(3)@text@js:result+'字'##.*字数."
     },
     "ruleContent": {
-      "content": "class.content@tag.p!0@html",
-      "imageStyle": "FULL",
-      "replaceRegex": "##您可以.*"
+      "content": "@css:#content>p:not(:first-child)@html",
+      "replaceRegex": "##您可以在百度.*查找最新章节！|九桃小说 老域名.*被墙，请您牢记本站最新域名.*"
     },
     "ruleExplore": {
-      "author": "",
-      "bookList": "",
-      "bookUrl": "",
-      "coverUrl": "",
-      "intro": "",
-      "name": ""
+      "author": "@css:.author@text",
+      "bookList": "@css:.library>li",
+      "bookUrl": "@css:.bookname@href",
+      "coverUrl": "@css:img@src",
+      "intro": "@css:p:eq(4)@html",
+      "kind": "@css:p>a:eq(2)@text&&span@text",
+      "lastChapter": "@css:.chapter@text##最新章节.",
+      "name": "@css:.bookname@text",
+      "wordCount": "@css:p:eq(3)@text@js:result+'字'##.*\\|"
     },
     "ruleSearch": {
-      "author": "tag.p.1@textNodes",
-      "bookList": "class.list@tag.li",
-      "bookUrl": "tag.a@href",
-      "coverUrl": "tag.img@src",
-      "intro": "class.intro@text",
-      "kind": "tag.span@text",
-      "lastChapter": "tag.a@href<js>java.ajax(result)</js>class.chapter@text##最新：",
-      "name": "class.bookname@text"
+      "author": "@css:.author@text",
+      "bookList": "@css:.library>li",
+      "bookUrl": "@css:.bookname@href",
+      "coverUrl": "@css:img@src",
+      "intro": "@css:p:eq(4)@html",
+      "kind": "@css:p>a:eq(2)@text&&span@text",
+      "lastChapter": "@css:.chapter@text##最新章节.",
+      "name": "@css:.bookname@text",
+      "wordCount": "@css:p:eq(3)@text##.*\\|"
     },
     "ruleToc": {
-      "chapterList": "class.read@tag.li",
-      "chapterName": "tag.a@text",
-      "chapterUrl": "tag.a@href",
-      "nextTocUrl": "text.下一页@href"
+      "chapterList": "@css:.read > dl:not(:first-child) > dd > a",
+      "chapterName": "text",
+      "chapterUrl": "href"
     },
-    "searchUrl": "https://so.9txs.org/m/,{\n\"charset\": \"UTF-8\",\n\"method\": \"POST\",\n\"body\": \"searchkey={{key}}\"\n}",
+    "searchUrl": "https://so.9txs.org/www/,{\n  \"method\": \"POST\",\n  \"body\": \"searchkey={{key}}\"\n}",
     "weight": 0
   },
   {
@@ -369,49 +362,11 @@
   {
     "bookSourceComment": "",
     "bookSourceGroup": "精品小说",
-    "bookSourceName": "✈ 笔趣阁 biqugeapp",
-    "bookSourceType": 0,
-    "bookSourceUrl": "https://www.biqugeapp.com",
-    "bookUrlPattern": "",
-    "customOrder": 9,
-    "enabled": true,
-    "enabledExplore": false,
-    "header": "",
-    "lastUpdateTime": 1629556307447,
-    "loginUrl": "",
-    "ruleBookInfo": {
-      "intro": "@js:'<br>'+java.get('intro')"
-    },
-    "ruleContent": {
-      "content": "$..content"
-    },
-    "ruleExplore": {},
-    "ruleSearch": {
-      "author": "$.Author",
-      "bookList": "$.data",
-      "bookUrl": "$.Id@js:\nvar n=result.match(/(^\\d+)\\d{3,}/);\nn=(n)?n[1]:'0';\nresult=(Number(n)+1)+'/'+result;\n'https://infos.anchengcn.com/BookFiles/Html/'+result+'/index.html';",
-      "coverUrl": "$.Img",
-      "intro": "$.Desc@js:java.put('intro',result);",
-      "kind": "$.CName",
-      "lastChapter": "$.LastChapter##(正文)?(\\s+|_)|[\\(（【].*[求更谢乐发推].*[】）\\)]",
-      "name": "$.Name"
-    },
-    "ruleToc": {
-      "chapterList": "$..[?(@.hasContent)]",
-      "chapterName": "$.name##(正文)?(\\s+|_)|[\\(（【].*[求更谢乐发推].*[】）\\)]",
-      "chapterUrl": "$.id@js:\nbaseUrl.replace(/index.html/,result).replace(/infos/,'content')+'.html'"
-    },
-    "searchUrl": "https://sou.jiaston.com/search.aspx?key={{key}}&page=1&siteid=app2 ",
-    "weight": 0
-  },
-  {
-    "bookSourceComment": "",
-    "bookSourceGroup": "精品小说",
     "bookSourceName": "✈ 顶点小说 xbooktxt",
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.xbooktxt.net/",
     "bookUrlPattern": "",
-    "customOrder": 10,
+    "customOrder": 9,
     "enabled": true,
     "enabledExplore": false,
     "header": "",
@@ -451,7 +406,7 @@
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.xbiquge.so",
     "bookUrlPattern": "",
-    "customOrder": 11,
+    "customOrder": 10,
     "enabled": true,
     "enabledExplore": false,
     "header": "",
@@ -505,7 +460,7 @@
     "bookSourceType": 0,
     "bookSourceUrl": "https://www.230book.net",
     "bookUrlPattern": "",
-    "customOrder": 12,
+    "customOrder": 11,
     "enabled": true,
     "enabledExplore": false,
     "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.96 Safari/537.36\"\n}",
@@ -535,6 +490,51 @@
       "chapterUrl": "href"
     },
     "searchUrl": "https://www.230book.net/modules/article/search.php?searchkey={{key}}&searchtype=articlename,{\n  \"charset\": \"gbk\"\n}",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "精品小说",
+    "bookSourceName": "✈ 顶点小说",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://www.ibooktxt.com",
+    "bookUrlPattern": "",
+    "customOrder": 12,
+    "enabled": true,
+    "enabledExplore": false,
+    "exploreUrl": "",
+    "header": "",
+    "lastUpdateTime": 1630119073135,
+    "loginUrl": "",
+    "ruleBookInfo": {
+      "author": "id.info@tag.p.0@text##作.*者.",
+      "coverUrl": "tag.img@src",
+      "intro": "id.intro@text",
+      "kind": "class.con_top@tag.a.1@text",
+      "lastChapter": "id.info@tag.a.-1@text",
+      "name": "id.info@tag.h1@text",
+      "wordCount": "id.info@tag.p.2@text##最后更新.|..\\:.*"
+    },
+    "ruleContent": {
+      "content": "id.content@html"
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+      "author": "tag.p.1@text##作者.",
+      "bookList": "class.result-item result-game-item",
+      "bookUrl": "tag.a.0@href",
+      "coverUrl": "tag.img@src",
+      "intro": "tag.p.0@text",
+      "kind": "tag.p.2@text##类型.",
+      "lastChapter": "tag.a.-1@text&&tag.p.3@text##更新时间.|..\\:.*",
+      "name": "tag.a.1@text"
+    },
+    "ruleToc": {
+      "chapterList": "id.list@tag.dd",
+      "chapterName": "tag.a@text",
+      "chapterUrl": "tag.a@href"
+    },
+    "searchUrl": "https://www.ibooktxt.com/search.php?q={{key}}",
     "weight": 0
   },
   {
