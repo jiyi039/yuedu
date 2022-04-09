@@ -10,7 +10,7 @@
 
 https://namofree.gitee.io/yuedu3/legado3_booksource_by_Namo.json
 
-![image](https://user-images.githubusercontent.com/10820724/162552038-38ac2521-d844-4478-9383-6a161b7155a0.png)
+![image](https://user-images.githubusercontent.com/10820724/162552214-dfbc7688-5e38-443b-8c2f-7d1a57cc2f2f.png)
 
 2.一程大佬的书源合集：（通用，精简，比较适合大多数人）
 
@@ -22,7 +22,7 @@ https://shuyuan.miaogongzi.net/shuyuan/1630342495.json
 
 http://no-mystery.gitee.io/shuyuan/%E5%85%A8%E7%BD%91%E9%80%9A%E7%94%A8.json
 
-![image](https://user-images.githubusercontent.com/10820724/162552126-71ed0a17-9b64-4b39-8f83-cbc93761fd51.png)
+![image](https://user-images.githubusercontent.com/10820724/162552194-22e3ca4b-cdd9-4305-9c3e-0b4c12056c2d.png)
 
 # A free CDN for Open Source
 
