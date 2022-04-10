@@ -8,7 +8,9 @@
     "order": 52,
     "pattern": "(?<=[，,])\\n\\s*",
     "replacement": "",
-    "scope": ""
+    "scope": "",
+    "scopeContent": true,
+    "scopeTitle": false
   },
   {
     "group": "",
@@ -19,7 +21,9 @@
     "order": 53,
     "pattern": "(?m)^\\s*[:：。，,；;！!？\\…\\.“”\\-\\>\\| &※*#s]+\\s*$",
     "replacement": "",
-    "scope": ""
+    "scope": "",
+    "scopeContent": true,
+    "scopeTitle": false
   },
   {
     "group": "",
@@ -30,7 +34,9 @@
     "order": 54,
     "pattern": "(?<=\\n)([^\\n]+)\\r?\\n\\1",
     "replacement": "$1",
-    "scope": ""
+    "scope": "",
+    "scopeContent": true,
+    "scopeTitle": false
   },
   {
     "group": "",
@@ -41,7 +47,9 @@
     "order": 58,
     "pattern": "[\\.…。]{2,}",
     "replacement": "…",
-    "scope": ""
+    "scope": "",
+    "scopeContent": true,
+    "scopeTitle": false
   },
   {
     "group": "",
@@ -50,9 +58,11 @@
     "isRegex": true,
     "name": "末尾无用文字",
     "order": 60,
-    "pattern": "\\s+(新人新书|请记住本书首发域|书友群|ps|PS)[.\\n]*(\\n.*)*",
+    "pattern": "\\s+(新人新书|请记住本书首发域名|天才本站地址|书友群|ps|PS)[\\d\\D\\n]*(\\n.*)*",
     "replacement": "",
-    "scope": ""
+    "scope": "",
+    "scopeContent": true,
+    "scopeTitle": false
   },
   {
     "group": "",
@@ -63,6 +73,21 @@
     "order": 61,
     "pattern": "([\\u4E00-\\u9FA5]{1})[\\./]([\\u4E00-\\u9FA5]{1})",
     "replacement": "$1$2",
-    "scope": ""
+    "scope": "",
+    "scopeContent": true,
+    "scopeTitle": false
+  },
+  {
+    "group": "",
+    "id": 1649557907597,
+    "isEnabled": true,
+    "isRegex": false,
+    "name": "最新网址：www.mayiwxw.com",
+    "order": 62,
+    "pattern": "最新网址：www.mayiwxw.com",
+    "replacement": "",
+    "scope": "某霍格沃茨的魔文教授;https://www.mayiwxw.com/",
+    "scopeContent": true,
+    "scopeTitle": false
   }
 ]
