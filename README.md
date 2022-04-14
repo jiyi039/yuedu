@@ -24,6 +24,10 @@ http://no-mystery.gitee.io/shuyuan/%E5%85%A8%E7%BD%91%E9%80%9A%E7%94%A8.json
 
 ![image](https://user-images.githubusercontent.com/10820724/162552194-22e3ca4b-cdd9-4305-9c3e-0b4c12056c2d.png)
 
+4.「阅读」APP 精品书源 https://github.com/XIU2/Yuedu
+![image](https://user-images.githubusercontent.com/10820724/163296580-ffe7f45f-57fb-4ab2-89c5-5138190efbfc.png)
+
+
 # A free CDN for Open Source
 
 https://g.cyao.workers.dev/
