@@ -66,31 +66,28 @@
     "enabledExplore": false,
     "exploreUrl": "",
     "header": "",
-    "lastUpdateTime": 1652083826963,
+    "lastUpdateTime": 1652148305175,
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
     "respondTime": 180000,
     "ruleBookInfo": {
-      "coverUrl": "class.novel_info_main@tag.img@src",
-      "init": ""
+      "coverUrl": "class.novel_info_main@tag.img@src"
     },
     "ruleContent": {
       "content": "id.article@html",
       "nextContentUrl": "id.next_url@href"
     },
-    "ruleExplore": {
-      "bookList": ""
-    },
+    "ruleExplore": {},
     "ruleSearch": {
-      "author": "tag.p.0@text## \\d+ 万字 \\d+(分钟|小时|天|月|年)前",
+      "author": "tag.p.0@text## \\d+ 万字 .*",
       "bookList": "class.searchresult",
       "bookUrl": "class.img_span@tag.a@href",
       "intro": "class.searchresult_p@text",
       "kind": "class.img_span@tag.span@text",
       "lastChapter": "tag.p.2@text",
       "name": "tag.h3@text",
-      "wordCount": "class.s_gray@text## \\d+(分钟|小时|天|月|年)前"
+      "wordCount": "class.s_gray@text## 万字.*##万字"
     },
     "ruleToc": {
       "chapterList": "id.ul_all_chapters@tag.li",
