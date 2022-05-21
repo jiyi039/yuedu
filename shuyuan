@@ -256,16 +256,20 @@
     "enabledExplore": false,
     "exploreUrl": "",
     "header": "",
-    "lastUpdateTime": 1653097189834,
+    "lastUpdateTime": 1653097658526,
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
     "respondTime": 180000,
-    "ruleBookInfo": {},
+    "ruleBookInfo": {
+      "init": ""
+    },
     "ruleContent": {
       "content": "$..content"
     },
-    "ruleExplore": {},
+    "ruleExplore": {
+      "bookList": ""
+    },
     "ruleSearch": {
       "author": "$.Author",
       "bookList": "$..data[*]",
