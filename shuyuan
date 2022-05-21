@@ -12,7 +12,55 @@
     "enabledExplore": false,
     "exploreUrl": "",
     "header": "",
-    "lastUpdateTime": 1652279316238,
+    "lastUpdateTime": 1653097108642,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "respondTime": 180000,
+    "ruleBookInfo": {
+      "author": "id.info@tag.a@text",
+      "init": "",
+      "lastChapter": "id.list@tag.a.1@text",
+      "name": "id.info@text"
+    },
+    "ruleContent": {
+      "content": "id.chaptercontent@html",
+      "nextContentUrl": "class.bottem2@id.next_url@href"
+    },
+    "ruleExplore": {
+      "bookList": ""
+    },
+    "ruleSearch": {
+      "author": "class.btm@tag.a@text",
+      "bookList": "class.hotcontent@class.item",
+      "bookUrl": "class.image@tag.a@href",
+      "coverUrl": "class.image@tag.img@src",
+      "intro": "tag.dd@text",
+      "lastChapter": "tag.a.1@href<js>java.ajax('https://www.bookben.net/'+result)</js>id.info@tag.p.-1@text&&id.info@tag.a.-1@text##[\\d:]{8}\\n|最后更新：",
+      "name": "tag.dt@text"
+    },
+    "ruleToc": {
+      "chapterList": "id.list@tag.a!0:1:2:3:4:5:6:7:8:9:10",
+      "chapterName": "tag.dd@text",
+      "chapterUrl": "@href"
+    },
+    "searchUrl": "https://www.bookben.net/search/?searchkey={{key}}",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "精品书源",
+    "bookSourceName": "✈ 书本网 cloudflare",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://bookben.cyao.workers.dev",
+    "bookUrlPattern": "",
+    "concurrentRate": "",
+    "customOrder": 1,
+    "enabled": true,
+    "enabledExplore": false,
+    "exploreUrl": "",
+    "header": "",
+    "lastUpdateTime": 1653097321846,
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
@@ -198,24 +246,26 @@
   {
     "bookSourceComment": "",
     "bookSourceGroup": "精品书源",
-    "bookSourceName": "✈ 神书宝",
+    "bookSourceName": "✈ 神书宝 shenbabao",
     "bookSourceType": 0,
     "bookSourceUrl": "https://quapp.shenbabao.com",
     "bookUrlPattern": "https://quapp.shenbabao.com/book/.*",
+    "concurrentRate": "",
     "customOrder": 5,
     "enabled": true,
     "enabledExplore": false,
-    "lastUpdateTime": 1652280058696,
-    "respondTime": 13633,
-    "ruleBookInfo": {
-      "init": ""
-    },
+    "exploreUrl": "",
+    "header": "",
+    "lastUpdateTime": 1653097189834,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "respondTime": 180000,
+    "ruleBookInfo": {},
     "ruleContent": {
       "content": "$..content"
     },
-    "ruleExplore": {
-      "bookList": ""
-    },
+    "ruleExplore": {},
     "ruleSearch": {
       "author": "$.Author",
       "bookList": "$..data[*]",
