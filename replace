@@ -58,7 +58,7 @@
     "isRegex": true,
     "name": "末尾无用文字",
     "order": 60,
-    "pattern": "\\s+(新人新书|请记住本书首发域名|天才本站地址|书友群|ps|PS)[\\d\\D\\n]*(\\n.*)*",
+    "pattern": "\\s+(新人新书|请记住本书首发域名|天才本站地址|书友群|ps|PS|下一次更新|求月票|本站重要通知:)[\\d\\D\\n]*(\\n.*)*",
     "replacement": "",
     "scope": "",
     "scopeContent": true,
@@ -79,15 +79,28 @@
   },
   {
     "group": "",
-    "id": 1649557907597,
+    "id": 1650254767726,
     "isEnabled": true,
-    "isRegex": false,
-    "name": "最新网址：www.mayiwxw.com",
-    "order": 62,
-    "pattern": "最新网址：www.mayiwxw.com",
+    "isRegex": true,
+    "name": "开头重复标题",
+    "order": 63,
+    "pattern": "第\\d+章.*\\n",
     "replacement": "",
-    "scope": "某霍格沃茨的魔文教授;https://www.mayiwxw.com/",
+    "scope": "农家小福女",
     "scopeContent": true,
     "scopeTitle": false
+  },
+  {
+    "group": "",
+    "id": 1653484967951,
+    "isEnabled": true,
+    "isRegex": true,
+    "name": "标题多余文字",
+    "order": 64,
+    "pattern": "（.*）",
+    "replacement": "",
+    "scope": "农家小福女",
+    "scopeContent": false,
+    "scopeTitle": true
   }
 ]
