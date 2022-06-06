@@ -1,6 +1,7 @@
 # 阅读书源自用
 
-导入链接 https://cdn.jsdelivr.net/gh/cyao2q/yuedu@master/shuyuan
+导入链接1 https://cdn.jsdelivr.net/gh/cyao2q/yuedu@master/shuyuan
+导入链接2 https://raw.fastgit.org/cyao2q/yuedu/master/shuyuan
 
 刷新缓存 https://purge.jsdelivr.net/gh/cyao2q/yuedu@master/shuyuan
 
