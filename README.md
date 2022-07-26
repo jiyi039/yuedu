@@ -2,9 +2,7 @@
 
 导入链接 https://raw-gh.gcdn.mirr.one/cyao2q/yuedu/master/shuyuan
 
-刷新缓存 https://purge.jsdelivr.net/gh/cyao2q/yuedu@master/shuyuan
-
-![image](https://user-images.githubusercontent.com/10820724/123533823-2cdafc00-d74b-11eb-9240-7b438a279868.png)
+![image](https://user-images.githubusercontent.com/10820724/181130006-9b8c987e-e1b7-443d-bc5c-a17d89b92044.png)
 
 1.「阅读」APP 精品书源 https://github.com/XIU2/Yuedu
 
