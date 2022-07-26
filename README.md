@@ -2,7 +2,7 @@
 
 导入链接 https://raw-gh.gcdn.mirr.one/cyao2q/yuedu/master/shuyuan
 
-![image](https://user-images.githubusercontent.com/10820724/181130074-75ca5e36-0e43-48a2-822b-71a0b4ddf7fe.png)
+![image](https://user-images.githubusercontent.com/10820724/181130179-f7180570-09b2-432a-9092-2afe7ccfdc18.png)
 
 1.「阅读」APP 精品书源 https://github.com/XIU2/Yuedu
 
