@@ -10,7 +10,8 @@
     "replacement": "",
     "scope": "",
     "scopeContent": true,
-    "scopeTitle": false
+    "scopeTitle": false,
+    "timeoutMillisecond": 3000
   },
   {
     "group": "",
@@ -23,7 +24,8 @@
     "replacement": "",
     "scope": "",
     "scopeContent": true,
-    "scopeTitle": false
+    "scopeTitle": false,
+    "timeoutMillisecond": 3000
   },
   {
     "group": "",
@@ -36,7 +38,8 @@
     "replacement": "$1",
     "scope": "",
     "scopeContent": true,
-    "scopeTitle": false
+    "scopeTitle": false,
+    "timeoutMillisecond": 3000
   },
   {
     "group": "",
@@ -49,7 +52,8 @@
     "replacement": "…",
     "scope": "",
     "scopeContent": true,
-    "scopeTitle": false
+    "scopeTitle": false,
+    "timeoutMillisecond": 3000
   },
   {
     "group": "",
@@ -58,11 +62,12 @@
     "isRegex": true,
     "name": "末尾无用文字",
     "order": 60,
-    "pattern": "\\s+(新人新书|请记住本书首发域名|天才本站地址|书友群|ps|PS|下一次更新|求月票|本站重要通知:)[\\d\\D\\n]*(\\n.*)*",
+    "pattern": "\\s+(新人新书|请记住本书首发域名|天才本站地址|书友群|ps|PS|下一次更新|求月票|本站重要通知:|作者有话要说：)[\\d\\D\\n]*(\\n.*)*",
     "replacement": "",
     "scope": "",
     "scopeContent": true,
-    "scopeTitle": false
+    "scopeTitle": false,
+    "timeoutMillisecond": 3000
   },
   {
     "group": "",
@@ -75,7 +80,8 @@
     "replacement": "$1$2",
     "scope": "",
     "scopeContent": true,
-    "scopeTitle": false
+    "scopeTitle": false,
+    "timeoutMillisecond": 3000
   },
   {
     "group": "",
@@ -88,19 +94,7 @@
     "replacement": "",
     "scope": "农家小福女",
     "scopeContent": true,
-    "scopeTitle": false
-  },
-  {
-    "group": "",
-    "id": 1653484967951,
-    "isEnabled": true,
-    "isRegex": true,
-    "name": "标题多余文字",
-    "order": 64,
-    "pattern": "（.*）",
-    "replacement": "",
-    "scope": "农家小福女",
-    "scopeContent": false,
-    "scopeTitle": true
+    "scopeTitle": false,
+    "timeoutMillisecond": 3000
   }
 ]
