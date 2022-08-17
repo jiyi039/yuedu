@@ -1,8 +1,8 @@
 # 阅读书源自用
 
-导入链接 https://raw-gh.gcdn.mirr.one/cyao2q/yuedu/master/shuyuan
+导入链接 https://f.cyao.tk/yuedu/shuyuan
 
-![image](https://user-images.githubusercontent.com/10820724/181130179-f7180570-09b2-432a-9092-2afe7ccfdc18.png)
+![image](https://user-images.githubusercontent.com/10820724/185069172-0be4f350-61f9-4733-8097-e2479d9309e2.png)
 
 1.「阅读」APP 精品书源 https://github.com/XIU2/Yuedu
 
@@ -26,13 +26,7 @@ https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/sy.json
 
 https://shuyuan.miaogongzi.net/shuyuan/1630342495.json
 
-# A free CDN for Open Source
-
-https://g.cyao.workers.dev/
-
-https://www.jsdelivr.com/?docs=gh
-
-# 阅读APP
+# 阅读APP下载
 https://github.com/gedoor/legado/releases
 
 https://github.com/gedoor/legado/blob/master/app/src/main/assets/updateLog.md
