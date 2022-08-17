@@ -1,8 +1,8 @@
 # 阅读书源自用
 
-导入链接 https://y.cyao.tk/shuyuan
+导入链接 https://sy.cyao.tk/shuyuan
 
-![image](https://user-images.githubusercontent.com/10820724/185093206-6d75fb51-2793-4bcf-9893-df8ab4b245f0.png)
+![image](https://user-images.githubusercontent.com/10820724/185112267-ef8ee5b4-35d3-4c6c-82a1-b8a0c60d8b48.png)
 
 1.「阅读」APP 精品书源 https://github.com/XIU2/Yuedu
 
