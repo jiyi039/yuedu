@@ -30,17 +30,3 @@ https://shuyuan.miaogongzi.net/shuyuan/1630342495.json
 https://github.com/gedoor/legado/releases
 
 https://github.com/gedoor/legado/blob/master/app/src/main/assets/updateLog.md
-
-# Github加速服务
-
-https://raw.githubusercontents.com/用户名/仓库/分支/文件
-
-<https://raw.githubusercontents.com/cyao2q/yuedu/master/shuyuan>
-
-https://ghproxy.com/https://raw.githubusercontent.com/用户名/仓库/分支/文件
-
-<https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/yuedu/master/shuyuan>
-
-https://raw.iqiq.io/用户名/仓库/分支/文件
-
-<https://raw.iqiq.io/cyao2q/yuedu/master/shuyuan>
