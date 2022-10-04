@@ -1,3 +1,6 @@
+### 本库书 源 <https://taiyang059.cf/yuedu/zj/bookSource.json>
+### 本库TTS源 <https://taiyang059.cf/yuedu/zj/httpTTS.json>
+
 # 阅读书源自用
 
 ### 导入链接 <https://cyao.tk/yuedu/shuyuan>
